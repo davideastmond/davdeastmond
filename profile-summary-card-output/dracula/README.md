@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/davideastmond/davdeastmond/main/profile-summary-card-output/dracula/4-productive-time.svg)
+```
+
+    
