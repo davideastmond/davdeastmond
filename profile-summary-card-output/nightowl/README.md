@@ -45,6 +45,16 @@
 
 ---
 
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/davideastmond/davdeastmond/main/profile-summary-card-output/nightowl/3-stats.svg)
+```
+
+    
+
+---
+
 ![](./4-productive-time.svg)
 
 ```
